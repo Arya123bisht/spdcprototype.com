@@ -72,7 +72,7 @@ main{
     min-height: calc( 100vh - 4vh - 13vh);
 }
 .cont{
-    background-image: url('/imge/college1.jpg');
+    background-image: url('../imge/college1.jpg');
     border: 2px solid gray;
     height: 90vh;
 }
