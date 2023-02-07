@@ -329,9 +329,9 @@ color: white;
     list-style: none;
     padding: 10px 60px;
 }
-/*about us*/
+                                           /*about us*/
 .cont-sub{
-    background-image: linear-gradient(rgba(0,0,50,0.7), rgba(0,0,50,0.7)), url('/imge/degree2.jpg');
+    background-image: linear-gradient(rgba(0,0,50,0.7), rgba(0,0,50,0.7)), url('imge/degree2.jpg');
     border: 2px solid gray;
     height: 30vh;
     background-repeat: no-repeat;
@@ -401,7 +401,7 @@ color: white;
         position: absolute;
         top: 667vh;
     }
-    /* registration */
+                                                          /* registration */
 .registration{
     height:90vh;
 }
@@ -451,7 +451,7 @@ select{
     position: absolute;
     top: 215vh;
 }
-/* contact us */
+                                                        /* contact us */
 .location{
     height: 87vh;
 }
@@ -487,7 +487,7 @@ textarea{
     position: absolute;
     top: 245vh;
 }
-/* gallery section */
+                                                                   /* gallery section */
 .gallery{
     height: 220vh;
     padding: 10px 20px ;
