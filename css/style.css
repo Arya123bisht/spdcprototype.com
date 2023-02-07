@@ -159,22 +159,22 @@ p{
 }
 .icon{
     display: flex;
-    top: 147vh;
+    top: 149vh;
     left: 15vh;
     position: absolute;
     
 }
 .icone{
     display: flex;
-    top: 147vh;
+    top: 149vh;
     left: 83vh;
     position: absolute;
     
 }
 .iconn{
     display: flex;
-    top: 147vh;
-    left: 151vh;
+    top: 149vh;
+    left: 153vh;
     position: absolute;
 }
 .d h3{
@@ -240,7 +240,7 @@ p{
     transform: scale(1.1);
 }
 .success{
-    background-image: url('imge/sub-h.jpg');
+    background-image: url('../imge/sub-h.jpg');
     height: 40vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -331,7 +331,7 @@ color: white;
 }
                                            /*about us*/
 .cont-sub{
-    background-image: linear-gradient(rgba(0,0,50,0.7), rgba(0,0,50,0.7)), url('imge/degree2.jpg');
+    background-image: linear-gradient(rgba(0,0,50,0.7), rgba(0,0,50,0.7)), url('../imge/degree2.jpg');
     border: 2px solid gray;
     height: 30vh;
     background-repeat: no-repeat;
