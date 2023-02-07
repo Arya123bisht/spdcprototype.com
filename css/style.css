@@ -500,8 +500,8 @@ textarea{
 }
  .chiru{ 
 display: grid;
-grid-template-columns: 200px 200px 200px 200px 200px 200px;
-grid-template-rows: 200px 200px 200px 200px 200px 200px;
+grid-template-columns: 200px 200px 200px 200px 200px ;
+grid-template-rows: 200px 200px 200px 200px 200px;
 padding: 20px;
 row-gap: 50px;
 column-gap: 50px;
